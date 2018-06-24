@@ -2,4 +2,4 @@
 
 ## Run scheduler 
 
-go build *.go
+    go build *.go
